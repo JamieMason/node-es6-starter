@@ -1,0 +1,17 @@
+sudo: false
+language: node_js
+node_js:
+  - '6'
+  - '5'
+  - '4'
+before_script:
+- npm install -g codeclimate-test-reporter
+script:
+  - npm run lint
+  - npm run test
+after_success:
+  - npm run coveralls
+  - codeclimate < coverage/lcov.info
+addons:
+  code_climate:
+    repo_token: CODE_CLIMATE_REPO_TOKEN

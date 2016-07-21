@@ -1,0 +1,13 @@
+{
+  "spec_dir": "spec",
+  "spec_files": [
+    "../src/**/*.spec.js"
+  ],
+  "helpers": [
+    "../node_modules/babel-register/lib/node.js",
+    "../node_modules/jasmine-expect/index.js",
+    "helpers/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}

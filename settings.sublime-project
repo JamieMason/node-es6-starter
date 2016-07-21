@@ -1,0 +1,23 @@
+{
+  "folders": [{
+    "path": ".",
+    "file_exclude_patterns": [
+      "*.sublime-project",
+      "*.sublime-workspace",
+      ".DS_Store",
+      "npm-debug.log"
+    ],
+    "folder_exclude_patterns": [
+      ".git",
+      "coverage",
+      "dist",
+      "node_modules"
+    ],
+    "rulers": [
+      80
+    ],
+    "translate_tabs_to_spaces": true,
+    "trim_automatic_white_space": true,
+    "trim_trailing_white_space_on_save": true
+  }]
+}
