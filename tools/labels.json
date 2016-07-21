@@ -1,0 +1,26 @@
+[
+  { "name": "Priority: Critical", "color": "f44336" },
+  { "name": "Priority: High", "color": "ff9800" },
+  { "name": "Priority: Medium", "color": "ffc107" },
+  { "name": "Priority: Low", "color": "ffeb3b" },
+
+  { "name": "Status: To Do", "color": "aed581" },
+  { "name": "Status: In Progress", "color": "d4e157" },
+  { "name": "Status: Awaiting Release", "color": "8bc34a" },
+  { "name": "Status: Released", "color": "689f38" },
+  { "name": "Status: Help Needed", "color": "b71c1c" },
+  { "name": "Status: Blocked", "color": "000000" },
+  { "name": "Status: Abandoned", "color": "546e7a" },
+
+  { "name": "Type: Chore", "color": "ffcdd2" },
+  { "name": "Type: Docs", "color": "f8bbd0" },
+  { "name": "Type: Duplicate", "color": "e1bee7" },
+  { "name": "Type: Feat", "color": "d1c4e9" },
+  { "name": "Type: Fix", "color": "c5cae9" },
+  { "name": "Type: Perf", "color": "bbdefb" },
+  { "name": "Type: Question", "color": "b3e5fc" },
+  { "name": "Type: Refactor", "color": "b2ebf2" },
+  { "name": "Type: Style", "color": "b2dfdb" },
+  { "name": "Type: Test", "color": "c8e6c9" },
+  { "name": "Type: Upstream Bug", "color": "dcedc8" }
+]
