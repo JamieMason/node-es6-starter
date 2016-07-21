@@ -1,0 +1,8 @@
+---
+id: home
+title: GITHUB_PROJECT ∙ PROJECT_DESCRIPTION
+---
+
+# Welcome!
+
+PROJECT_DESCRIPTION
